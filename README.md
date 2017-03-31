@@ -1,2 +1,2 @@
 # lab2
-for homewor
+use "make" to compile the program
